@@ -1,6 +1,6 @@
-This project is hosted in netlify with url: (https://elated-lewin-0a6ac4.netlify.app).
+This project is hosted in netlify with url: https://reactjs-chat-testing.netlify.app.
 
-it uses express/nodejs as backend that's hosted in heroku with url: (https://nodejs-server-chat-application.herokuapp.com/).
+it uses express/nodejs as backend that's hosted in heroku with url: https://nodejs-server-chat-application.herokuapp.com.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
